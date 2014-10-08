@@ -1,0 +1,2690 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x6877980" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0xe764dd0" />
+  <item nodeId="node-0x6877980">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+Jack, the Mexican that showed up a couple days ago needs the fingers on his left had to be cut off due to frostbite. He sits in a chair in the barn. You&apos;ll need a sharp knife, a hammer, a needle, thread, and clean rags to cut it off.
+
+Daughter of Fortune
+An Interactive Fiction by Izzy
+Release 1 / Serial number 141007 / Inform 7 build 6L02 (I6/v6.33 lib 6/12N) SD
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, even though it&apos;s really cold.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">NO</temporary>
+    <children>
+      <child nodeId="node-0x68779f0" />
+      <child nodeId="node-0x68fb480" />
+      <child nodeId="node-0xe59c760" />
+      <child nodeId="node-0xe10fa10" />
+      <child nodeId="node-0xe576030" />
+      <child nodeId="node-0x68fadf0" />
+      <child nodeId="node-0x68fac30" />
+      <child nodeId="node-0x68f9730" />
+      <child nodeId="node-0x68fa8b0" />
+      <child nodeId="node-0x68f98f0" />
+      <child nodeId="node-0x68f9650" />
+      <child nodeId="node-0x68f8ed0" />
+      <child nodeId="node-0xe2635c0" />
+      <child nodeId="node-0x114da0" />
+      <child nodeId="node-0x68fb250" />
+      <child nodeId="node-0x6877b00" />
+    </children>
+  </item>
+  <item nodeId="node-0x6877b00">
+    <command xml:space="preserve">cut jack&apos;s hand</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="248">YES</temporary>
+    <children>
+      <child nodeId="node-0x6877b70" />
+    </children>
+  </item>
+  <item nodeId="node-0x6877b70">
+    <command xml:space="preserve">cut</command>
+    <result xml:space="preserve">What do you want to cut?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="248">YES</temporary>
+    <children>
+      <child nodeId="node-0x6877be0" />
+    </children>
+  </item>
+  <item nodeId="node-0x6877be0">
+    <command xml:space="preserve">cut jack</command>
+    <result xml:space="preserve">Cutting him up would achieve little.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="248">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f8660" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f8660">
+    <command xml:space="preserve">cut off</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="247">YES</temporary>
+  </item>
+  <item nodeId="node-0x68fb250">
+    <command xml:space="preserve">go into my room</command>
+    <result xml:space="preserve">You get into Your Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="175">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fb2c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fb2c0">
+    <command xml:space="preserve">go into my room</command>
+    <result xml:space="preserve">But you&apos;re already in Your Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="175">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fb330" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fb330">
+    <command xml:space="preserve">talk to tom</command>
+    <result xml:space="preserve">Try asking Tom about something what you need instead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="175">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fb3a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fb3a0">
+    <command xml:space="preserve">x my bag</command>
+    <result xml:space="preserve">You store all your stuff in here.
+
+In your bag are Binding cloth, Music Sheets and Jacket.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="175">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fb410" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fb410">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">You get out of Your Room.
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, but it&apos;s freezing and probably not a good idea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="174">YES</temporary>
+  </item>
+  <item nodeId="node-0x114da0">
+    <command xml:space="preserve">outside</command>
+    <result xml:space="preserve">
+Barnyard
+The strong wind blows you around and you lose your bearings.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa887fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa887fa0">
+    <command xml:space="preserve">damn it</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5b4170" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5b4170">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5437a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5437a0">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">You can&apos;t find your way now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5346e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5346e0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+Road S
+
+
+    *** After losing your bearings and wandering around, you finally freeze to death. Probably should&apos;ve just stayed inside silly girl. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7e9e10" />
+    </children>
+  </item>
+  <item nodeId="node-0x7e9e10">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+Jack, the Mexican that showed up a couple days ago needs the fingers on his left had to be cut off due to frostbite. He sits in a chair in the barn. You&apos;ll need a sharp knife, a hammer, a needle, thread, and clean rags to cut it off.
+
+Daughter of Fortune
+An Interactive Fiction by Izzy
+Release 1 / Serial number 141007 / Inform 7 build 6L02 (I6/v6.33 lib 6/12N) SD
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, even though it&apos;s really cold.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa877560" />
+    </children>
+  </item>
+  <item nodeId="node-0xa877560">
+    <command xml:space="preserve">room</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x14c4b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x14c4b0">
+    <command xml:space="preserve">my room</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8b7e10" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8b7e10">
+    <command xml:space="preserve">go into my room</command>
+    <result xml:space="preserve">You get into Your Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7d2f00" />
+    </children>
+  </item>
+  <item nodeId="node-0x7d2f00">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x1275e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1275e0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe556950" />
+    </children>
+  </item>
+  <item nodeId="node-0xe556950">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe508d90" />
+    </children>
+  </item>
+  <item nodeId="node-0xe508d90">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa891960" />
+    </children>
+  </item>
+  <item nodeId="node-0xa891960">
+    <command xml:space="preserve">x me</command>
+    <result xml:space="preserve">Your real name&apos;s Eliza Sommers, but you&apos;re disguised as a boy named Elias Andieta. You&apos;ve gone by this name while in America to find your lover; Joaquin Andieta. You&apos;ve travelled with Joe and her Doves for a while as their piano player after meeting them in a town some time ago. Since it&apos;s winter now, you&apos;ve settled down in a Barn to wait it out.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8975c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8975c0">
+    <command xml:space="preserve">x your room</command>
+    <result xml:space="preserve">You share this room with Babalu the Bad and Tom No-Tribe. The bed is big enough for all three of you to fit, but usually Babalu is awake at night and paces along the barn, so usually it&apos;s just you and Tom No-Tribe keeping warm. Along the barn wall is a bag with your belongings and Tom No-Tribe is just sitting on the ground.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x11a170" />
+    </children>
+  </item>
+  <item nodeId="node-0x11a170">
+    <command xml:space="preserve">x bed</command>
+    <result xml:space="preserve">Which do you mean, large bed, Joe&apos;s Bed, blue bed or red bed?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe58c6f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe58c6f0">
+    <command xml:space="preserve">x Joe&apos;s bed</command>
+    <result xml:space="preserve">Joe&apos;s bed is all made up.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe2a6920" />
+    </children>
+  </item>
+  <item nodeId="node-0xe2a6920">
+    <command xml:space="preserve">x blue bed</command>
+    <result xml:space="preserve">The blue bed is the sisters&quot; bed. The bed is neat and tidy.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8b6ff0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8b6ff0">
+    <command xml:space="preserve">x red bed</command>
+    <result xml:space="preserve">Esther and the Mexican dove share the red bed.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x102350" />
+    </children>
+  </item>
+  <item nodeId="node-0x102350">
+    <command xml:space="preserve">x large bed</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7edb80" />
+    </children>
+  </item>
+  <item nodeId="node-0x7edb80">
+    <command xml:space="preserve">x barn</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe2b2b30" />
+    </children>
+  </item>
+  <item nodeId="node-0xe2b2b30">
+    <command xml:space="preserve">talk to Tom</command>
+    <result xml:space="preserve">Try asking Tom about something what you need instead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x1633c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1633c0">
+    <command xml:space="preserve">ask TOm</command>
+    <result xml:space="preserve">What do you want to ask Tom No-Tribe for?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8a8ec0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8a8ec0">
+    <command xml:space="preserve">ask Tom about knife</command>
+    <result xml:space="preserve">Tom doesn&apos;t seem to want to talk about it and just looks away from you.
+
+There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe521110" />
+    </children>
+  </item>
+  <item nodeId="node-0xe521110">
+    <command xml:space="preserve">ask Tom about sharp knife</command>
+    <result xml:space="preserve">He scoffs and looks at you like you should know where to find that already.
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x11a9c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x11a9c0">
+    <command xml:space="preserve">go to kitchen</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7692a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7692a0">
+    <command xml:space="preserve">leave room</command>
+    <result xml:space="preserve">I only understood you as far as wanting to leave.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7b2fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7b2fa0">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">You get out of Your Room.
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, even though it&apos;s really cold.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8d4100" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8d4100">
+    <command xml:space="preserve">kitchen</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5f0d20" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5f0d20">
+    <command xml:space="preserve">go into kitchen</command>
+    <result xml:space="preserve">You get into Kitchen.
+
+On Counter is Big box (closed).
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x680ee10" />
+    </children>
+  </item>
+  <item nodeId="node-0x680ee10">
+    <command xml:space="preserve">x big box</command>
+    <result xml:space="preserve">The box is made of wood. Joe usually has the key to unlock it.  The big box is used to store a sharp knife.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7e4220" />
+    </children>
+  </item>
+  <item nodeId="node-0x7e4220">
+    <command xml:space="preserve">x counter</command>
+    <result xml:space="preserve">Upon closer inspection you see a small box underneath it.
+
+On Counter is Big box (closed).
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5bf070" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5bf070">
+    <command xml:space="preserve">x small box</command>
+    <result xml:space="preserve">It&apos;s a small wooden box. Joe probably carries the key to it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa83fc80" />
+    </children>
+  </item>
+  <item nodeId="node-0xa83fc80">
+    <command xml:space="preserve">x key</command>
+    <result xml:space="preserve">This key unlocks the toolbox and the big box in the kitchen.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe652140" />
+    </children>
+  </item>
+  <item nodeId="node-0xe652140">
+    <command xml:space="preserve">damn it why dont have key</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe2db240" />
+    </children>
+  </item>
+  <item nodeId="node-0xe2db240">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">You get out of Kitchen.
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, even though it&apos;s really cold.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x75ed90" />
+    </children>
+  </item>
+  <item nodeId="node-0x75ed90">
+    <command xml:space="preserve">go to barn</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x6812b20" />
+    </children>
+  </item>
+  <item nodeId="node-0x6812b20">
+    <command xml:space="preserve">talk to Joe</command>
+    <result xml:space="preserve">(Joe Bonecrusher)
+Try asking Joe about what you need instead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe11dee0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe11dee0">
+    <command xml:space="preserve">ask joe</command>
+    <result xml:space="preserve">What do you want to ask Joe Bonecrusher for?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa85dea0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa85dea0">
+    <command xml:space="preserve">ask joe about hammer</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+That&apos;s inside of the toolbox.
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe6d9a80" />
+    </children>
+  </item>
+  <item nodeId="node-0xe6d9a80">
+    <command xml:space="preserve">ask joe about toolbox</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+You&apos;ll need a key to open it.
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x740270" />
+    </children>
+  </item>
+  <item nodeId="node-0x740270">
+    <command xml:space="preserve">ask joe for key</command>
+    <result xml:space="preserve">(Joe Bonecrusher for Key)
+(Joe Bonecrusher first taking Key)
+Joe Bonecrusher has better things to do.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe500130" />
+    </children>
+  </item>
+  <item nodeId="node-0xe500130">
+    <command xml:space="preserve">ask joe about key</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+Here, I have it.
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7378a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7378a0">
+    <command xml:space="preserve">thanks</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x135f40" />
+    </children>
+  </item>
+  <item nodeId="node-0x135f40">
+    <command xml:space="preserve">check inventory</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa861570" />
+    </children>
+  </item>
+  <item nodeId="node-0xa861570">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Key
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7b4350" />
+    </children>
+  </item>
+  <item nodeId="node-0x7b4350">
+    <command xml:space="preserve">x key</command>
+    <result xml:space="preserve">This key unlocks the toolbox and the big box in the kitchen.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8f2f30" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8f2f30">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">
+Barnyard
+The strong wind blows you around and you lose your bearings.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe22e3e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe22e3e0">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Barn
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x14aaa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x14aaa0">
+    <command xml:space="preserve">go to kitchen</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8970b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8970b0">
+    <command xml:space="preserve">go into kitchen</command>
+    <result xml:space="preserve">You get into Kitchen.
+
+On Counter is Big box (closed).
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7096b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7096b0">
+    <command xml:space="preserve">unlock big box</command>
+    <result xml:space="preserve">(with Key)
+You unlock Big box.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x12b350" />
+    </children>
+  </item>
+  <item nodeId="node-0x12b350">
+    <command xml:space="preserve">x big box</command>
+    <result xml:space="preserve">The box is made of wood. Joe usually has the key to unlock it.  The big box is used to store a sharp knife.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7228d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7228d0">
+    <command xml:space="preserve">inspect big box</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x744900" />
+    </children>
+  </item>
+  <item nodeId="node-0x744900">
+    <command xml:space="preserve">x big box</command>
+    <result xml:space="preserve">The box is made of wood. Joe usually has the key to unlock it.  The big box is used to store a sharp knife.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa869780" />
+    </children>
+  </item>
+  <item nodeId="node-0xa869780">
+    <command xml:space="preserve">look inside bix box</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8b8930" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8b8930">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Barn
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8f4f80" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8f4f80">
+    <command xml:space="preserve">go into kitchen</command>
+    <result xml:space="preserve">But you&apos;re already in Kitchen.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xaab55b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xaab55b0">
+    <command xml:space="preserve">take knife</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7a3230" />
+    </children>
+  </item>
+  <item nodeId="node-0x7a3230">
+    <command xml:space="preserve">unlock big box</command>
+    <result xml:space="preserve">(with Key)
+That&apos;s unlocked at the moment.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x682a7c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x682a7c0">
+    <command xml:space="preserve">take knife</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5652b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5652b0">
+    <command xml:space="preserve">take sharp knife</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xaa02d90" />
+    </children>
+  </item>
+  <item nodeId="node-0xaa02d90">
+    <command xml:space="preserve">x big box</command>
+    <result xml:space="preserve">The box is made of wood. Joe usually has the key to unlock it.  The big box is used to store a sharp knife.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8722a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8722a0">
+    <command xml:space="preserve">x knife</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x7e3010" />
+    </children>
+  </item>
+  <item nodeId="node-0x7e3010">
+    <command xml:space="preserve">knife</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe706ce0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe706ce0">
+    <command xml:space="preserve">knife</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa834c20" />
+    </children>
+  </item>
+  <item nodeId="node-0xa834c20">
+    <command xml:space="preserve">action on</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa896fd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa896fd0">
+    <command xml:space="preserve">actions off</command>
+    <result xml:space="preserve">Actions listing off.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x2c3f00" />
+    </children>
+  </item>
+  <item nodeId="node-0x2c3f00">
+    <command xml:space="preserve">take knife</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe622310" />
+    </children>
+  </item>
+  <item nodeId="node-0xe622310">
+    <command xml:space="preserve">actions on</command>
+    <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa8fb1f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa8fb1f0">
+    <command xml:space="preserve">take knife</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa816d30" />
+    </children>
+  </item>
+  <item nodeId="node-0xa816d30">
+    <command xml:space="preserve">actions off</command>
+    <result xml:space="preserve">Actions listing off.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe6da690" />
+    </children>
+  </item>
+  <item nodeId="node-0xe6da690">
+    <command xml:space="preserve">gimme gimme gimme</command>
+    <result xml:space="preserve">Sure, why not, cheater.
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, even though it&apos;s really cold.
+
+Now that you have collected all the materials you need, you can cut off Jack&apos;s fingers. You review what you had learned at Tao Chi&apos;en&apos;s side when he had extracted bullets and stitched up wounds in Sacramento…The most important thing was to prevent hemorrhaging and infection. Although you have not watched him do any amputations, but when he was treating unlucky patients whose ears had been cut off, he had commented that in other lands they cut off hands and feet for the same crime. &quot;The executioner&apos;s ax is quick, but it doesn&apos;t leave any tissue to cover the stump of the bone,&quot; Tao had told you. You know that all you need to do now is cut off the fingers, clean up the blood, then stitch up the stumps. It would probably be safer if you disinfected the knife first; heating it up would do the trick.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x149d70" />
+    </children>
+  </item>
+  <item nodeId="node-0x149d70">
+    <command xml:space="preserve">cut off hand</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe7720d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe7720d0">
+    <command xml:space="preserve">cut off fingers</command>
+    <result xml:space="preserve">Try saying cut jack&apos;s fingers.
+
+Now that you have collected all the materials you need, you can cut off Jack&apos;s fingers. You review what you had learned at Tao Chi&apos;en&apos;s side when he had extracted bullets and stitched up wounds in Sacramento…The most important thing was to prevent hemorrhaging and infection. Although you have not watched him do any amputations, but when he was treating unlucky patients whose ears had been cut off, he had commented that in other lands they cut off hands and feet for the same crime. &quot;The executioner&apos;s ax is quick, but it doesn&apos;t leave any tissue to cover the stump of the bone,&quot; Tao had told you. You know that all you need to do now is cut off the fingers, clean up the blood, then stitch up the stumps. It would probably be safer if you disinfected the knife first; heating it up would do the trick.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0x750410" />
+    </children>
+  </item>
+  <item nodeId="node-0x750410">
+    <command xml:space="preserve">cut off thumb</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xaad5f40" />
+    </children>
+  </item>
+  <item nodeId="node-0xaad5f40">
+    <command xml:space="preserve">cut off the finger</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xa83ff10" />
+    </children>
+  </item>
+  <item nodeId="node-0xa83ff10">
+    <command xml:space="preserve">cut Jack&apos;s fingers</command>
+    <result xml:space="preserve">You position the knife on the finger  and hit it smartly with the hammer, driving the blade cleanly through the bones and into the wood of the table.
+
+Now that you have collected all the materials you need, you can cut off Jack&apos;s fingers. You review what you had learned at Tao Chi&apos;en&apos;s side when he had extracted bullets and stitched up wounds in Sacramento…The most important thing was to prevent hemorrhaging and infection. Although you have not watched him do any amputations, but when he was treating unlucky patients whose ears had been cut off, he had commented that in other lands they cut off hands and feet for the same crime. &quot;The executioner&apos;s ax is quick, but it doesn&apos;t leave any tissue to cover the stump of the bone,&quot; Tao had told you. You know that all you need to do now is cut off the fingers, clean up the blood, then stitch up the stumps. It would probably be safer if you disinfected the knife first; heating it up would do the trick.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5285a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5285a0">
+    <command xml:space="preserve">clean up blood</command>
+    <result xml:space="preserve">Jack&apos;s fingers are tossed aside and you wipe up the blood as best as possible so you can stitch jack&apos;s wounds.
+
+Now that you have collected all the materials you need, you can cut off Jack&apos;s fingers. You review what you had learned at Tao Chi&apos;en&apos;s side when he had extracted bullets and stitched up wounds in Sacramento…The most important thing was to prevent hemorrhaging and infection. Although you have not watched him do any amputations, but when he was treating unlucky patients whose ears had been cut off, he had commented that in other lands they cut off hands and feet for the same crime. &quot;The executioner&apos;s ax is quick, but it doesn&apos;t leave any tissue to cover the stump of the bone,&quot; Tao had told you. You know that all you need to do now is cut off the fingers, clean up the blood, then stitch up the stumps. It would probably be safer if you disinfected the knife first; heating it up would do the trick.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5a11c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5a11c0">
+    <command xml:space="preserve">stitch Jack&apos;s wounds</command>
+    <result xml:space="preserve">Using the needle and thread, you stitch the wounds close.
+
+Now that you have collected all the materials you need, you can cut off Jack&apos;s fingers. You review what you had learned at Tao Chi&apos;en&apos;s side when he had extracted bullets and stitched up wounds in Sacramento…The most important thing was to prevent hemorrhaging and infection. Although you have not watched him do any amputations, but when he was treating unlucky patients whose ears had been cut off, he had commented that in other lands they cut off hands and feet for the same crime. &quot;The executioner&apos;s ax is quick, but it doesn&apos;t leave any tissue to cover the stump of the bone,&quot; Tao had told you. You know that all you need to do now is cut off the fingers, clean up the blood, then stitch up the stumps. It would probably be safer if you disinfected the knife first; heating it up would do the trick.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="823">YES</temporary>
+    <children>
+      <child nodeId="node-0xe764dd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe764dd0">
+    <command xml:space="preserve">good job cam</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="822">YES</temporary>
+  </item>
+  <item nodeId="node-0xe2635c0">
+    <command xml:space="preserve">ask joe for key</command>
+    <result xml:space="preserve">(Joe Bonecrusher for Key)
+Joe Bonecrusher has better things to do.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x7df3b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7df3b0">
+    <command xml:space="preserve">x joe</command>
+    <result xml:space="preserve">Which do you mean, Joe Bonecrusher&apos;s Room or Joe Bonecrusher?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x7f77a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7f77a0">
+    <command xml:space="preserve">joe bonecrusher</command>
+    <result xml:space="preserve">Joe&apos;s a kind person.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x126cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x126cb0">
+    <command xml:space="preserve">ask joe what he likes</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe110380" />
+    </children>
+  </item>
+  <item nodeId="node-0xe110380">
+    <command xml:space="preserve">ask joe for key</command>
+    <result xml:space="preserve">(Joe Bonecrusher for Key)
+Joe Bonecrusher has better things to do.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe59fa00" />
+    </children>
+  </item>
+  <item nodeId="node-0xe59fa00">
+    <command xml:space="preserve">ask joe about knife</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+What&apos;d you say, boy? Ask me something else.
+
+There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe54f830" />
+    </children>
+  </item>
+  <item nodeId="node-0xe54f830">
+    <command xml:space="preserve">ask joe about hammer</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+That&apos;s inside of the toolbox.I already gave it to you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x13fd90" />
+    </children>
+  </item>
+  <item nodeId="node-0x13fd90">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Key
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe52ae90" />
+    </children>
+  </item>
+  <item nodeId="node-0xe52ae90">
+    <command xml:space="preserve">ask joe about needle</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+What&apos;d you say, boy? Ask me something else.
+
+There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x7d4c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x7d4c00">
+    <command xml:space="preserve">ask joe about thread</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+What&apos;d you say, boy? Ask me something else.
+
+There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe647200" />
+    </children>
+  </item>
+  <item nodeId="node-0xe647200">
+    <command xml:space="preserve">go to kitchen</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x7c6e10" />
+    </children>
+  </item>
+  <item nodeId="node-0x7c6e10">
+    <command xml:space="preserve">enter kitchen</command>
+    <result xml:space="preserve">You get into Kitchen.
+
+On Counter is Big box (closed).
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x140da0" />
+    </children>
+  </item>
+  <item nodeId="node-0x140da0">
+    <command xml:space="preserve">oepn box with key</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe2dcd50" />
+    </children>
+  </item>
+  <item nodeId="node-0xe2dcd50">
+    <command xml:space="preserve">open box with key</command>
+    <result xml:space="preserve">(Big box with Key)
+You unlock Big box.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe525fd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe525fd0">
+    <command xml:space="preserve">big box</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe511fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe511fa0">
+    <command xml:space="preserve">x big box</command>
+    <result xml:space="preserve">The box is made of wood. Joe usually has the key to unlock it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x7cca10" />
+    </children>
+  </item>
+  <item nodeId="node-0x7cca10">
+    <command xml:space="preserve">open small box with key</command>
+    <result xml:space="preserve">That doesn&apos;t seem to fit the lock.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe52cb90" />
+    </children>
+  </item>
+  <item nodeId="node-0xe52cb90">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Key
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x7f63b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x7f63b0">
+    <command xml:space="preserve">take knife</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x140a80" />
+    </children>
+  </item>
+  <item nodeId="node-0x140a80">
+    <command xml:space="preserve">x big box</command>
+    <result xml:space="preserve">The box is made of wood. Joe usually has the key to unlock it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe50a820" />
+    </children>
+  </item>
+  <item nodeId="node-0xe50a820">
+    <command xml:space="preserve">look inside big box</command>
+    <result xml:space="preserve">You can&apos;t see inside, since Big box is closed.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x140400" />
+    </children>
+  </item>
+  <item nodeId="node-0x140400">
+    <command xml:space="preserve">open big box with key</command>
+    <result xml:space="preserve">That&apos;s unlocked at the moment.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x7f5370" />
+    </children>
+  </item>
+  <item nodeId="node-0x7f5370">
+    <command xml:space="preserve">open big box</command>
+    <result xml:space="preserve">You open Big box, revealing nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x12c640" />
+    </children>
+  </item>
+  <item nodeId="node-0x12c640">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">You get out of Kitchen.
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, but it&apos;s freezing and probably not a good idea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x1384b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1384b0">
+    <command xml:space="preserve">enter kitchen </command>
+    <result xml:space="preserve">You get into Kitchen.
+
+On Counter is Big box.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x7ea170" />
+    </children>
+  </item>
+  <item nodeId="node-0x7ea170">
+    <command xml:space="preserve">take knife</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5004c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5004c0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Knife
+  Key
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x124900" />
+    </children>
+  </item>
+  <item nodeId="node-0x124900">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">You get out of Kitchen.
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, but it&apos;s freezing and probably not a good idea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0x7b6290" />
+    </children>
+  </item>
+  <item nodeId="node-0x7b6290">
+    <command xml:space="preserve">ask babalu about needle</command>
+    <result xml:space="preserve">You&apos;re a funny one, Elias.
+
+There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xa86c2c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa86c2c0">
+    <command xml:space="preserve">ask babalu about thread</command>
+    <result xml:space="preserve">You&apos;re a funny one, Elias.
+
+There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5347f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5347f0">
+    <command xml:space="preserve">ask joe about hammer</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+That&apos;s inside of the toolbox.I already gave it to you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xa889300" />
+    </children>
+  </item>
+  <item nodeId="node-0xa889300">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Knife
+  Key
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xa80ab50" />
+    </children>
+  </item>
+  <item nodeId="node-0xa80ab50">
+    <command xml:space="preserve">x toolbox</command>
+    <result xml:space="preserve">Usually only Joe and Babalu use the toolbox.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="178">YES</temporary>
+    <children>
+      <child nodeId="node-0xa89ffc0" />
+    </children>
+  </item>
+  <item nodeId="node-0xa89ffc0">
+    <command xml:space="preserve">take toolbox</command>
+    <result xml:space="preserve">That&apos;s hardly portable.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="177">YES</temporary>
+  </item>
+  <item nodeId="node-0x68f8ed0">
+    <command xml:space="preserve">go into joe&apos;s room</command>
+    <result xml:space="preserve">You get into Joe Bonecrusher&apos;s Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9570" />
+      <child nodeId="node-0x68f8fb0" />
+      <child nodeId="node-0x68f8f40" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f8f40">
+    <command xml:space="preserve">exit</command>
+    <result xml:space="preserve">You get out of Joe Bonecrusher&apos;s Room.
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, but it&apos;s freezing and probably not a good idea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
+  </item>
+  <item nodeId="node-0x68f8fb0">
+    <command xml:space="preserve">go out</command>
+    <result xml:space="preserve">You would have to get out of Joe Bonecrusher&apos;s Room first.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="138">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9020" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9020">
+    <command xml:space="preserve">leave joe&apos;s room</command>
+    <result xml:space="preserve">I only understood you as far as wanting to leave.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="138">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9090" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9090">
+    <command xml:space="preserve">go out of joe&apos;s room</command>
+    <result xml:space="preserve">I only understood you as far as wanting to go outside.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="138">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9100" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9100">
+    <command xml:space="preserve">exit </command>
+    <result xml:space="preserve">You get out of Joe Bonecrusher&apos;s Room.
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, but it&apos;s freezing and probably not a good idea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="138">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9170" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9170">
+    <command xml:space="preserve">go into joe&apos;s room</command>
+    <result xml:space="preserve">You get into Joe Bonecrusher&apos;s Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="138">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f91e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f91e0">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">You get out of Joe Bonecrusher&apos;s Room.
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, but it&apos;s freezing and probably not a good idea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="138">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f8c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f8c00">
+    <command xml:space="preserve">go into dove&apos;s room</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="138">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f8c70" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f8c70">
+    <command xml:space="preserve">go into doves&apos; room</command>
+    <result xml:space="preserve">You get into The Doves&quot; Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="138">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f8ce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f8ce0">
+    <command xml:space="preserve">x room</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="138">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9490" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9490">
+    <command xml:space="preserve">x doves room</command>
+    <result xml:space="preserve">All the Doves share this room. The two sisters stand by their blue bed. The younger sister is facing her older sister. The Mexican Dove is sleeping on the red bed. Esther stand in the corner by a dresser.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="138">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9500" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9500">
+    <command xml:space="preserve">x esther</command>
+    <result xml:space="preserve">You see nothing special about Esther.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="137">YES</temporary>
+  </item>
+  <item nodeId="node-0x68f9570">
+    <command xml:space="preserve">x room</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="259">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f95e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f95e0">
+    <command xml:space="preserve">x joe&apos;s room</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="258">YES</temporary>
+  </item>
+  <item nodeId="node-0x68f9650">
+    <command xml:space="preserve">go in your area</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="276">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f96c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f96c0">
+    <command xml:space="preserve">open your area</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="275">YES</temporary>
+  </item>
+  <item nodeId="node-0x68f98f0">
+    <command xml:space="preserve">go outside</command>
+    <result xml:space="preserve">
+Barnyard
+The strong wind blows you around and you lose your bearings.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9960" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9960">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Barn
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f99d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f99d0">
+    <command xml:space="preserve">go into room</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9a40">
+    <command xml:space="preserve">go into my room</command>
+    <result xml:space="preserve">You get into Your Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9ab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9ab0">
+    <command xml:space="preserve">x my room</command>
+    <result xml:space="preserve">You share this room with Babalu the Bad and Tom No-Tribe. The bed is big enough for all three of you to fit, but usually Babalu is awake at night and paces along the barn, so usually it&apos;s just you and Tom No-Tribe keeping warm. Along the barn wall is a bag with your belongings.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9b20" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9b20">
+    <command xml:space="preserve">x bag</command>
+    <result xml:space="preserve">You store all your stuff in here.
+
+In your bag are Binding cloth, Music Sheets and Jacket.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9b90">
+    <command xml:space="preserve">go to barnyard</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9250" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9250">
+    <command xml:space="preserve">exit room</command>
+    <result xml:space="preserve">I only understood you as far as wanting to exit.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f92c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f92c0">
+    <command xml:space="preserve">exit my room</command>
+    <result xml:space="preserve">I only understood you as far as wanting to exit.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9330" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9330">
+    <command xml:space="preserve">go to barn</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f93a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f93a0">
+    <command xml:space="preserve">barn</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9410" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9410">
+    <command xml:space="preserve">go to barn</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9c00">
+    <command xml:space="preserve">leave my room</command>
+    <result xml:space="preserve">I only understood you as far as wanting to leave.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9c70" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9c70">
+    <command xml:space="preserve">leave</command>
+    <result xml:space="preserve">You get out of Your Room.
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, but it&apos;s freezing and probably not a good idea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9ce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9ce0">
+    <command xml:space="preserve">x joe</command>
+    <result xml:space="preserve">(Joe Dresser)
+The dresser&apos;s large and made from some wood you don&apos;t recognize. You don&apos;t have the key to it and Joe probably wouldn&apos;t give it to you. There are probably other ways to get into it though.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9d50" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9d50">
+    <command xml:space="preserve">ask joe for key</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9dc0">
+    <command xml:space="preserve">talk to joe</command>
+    <result xml:space="preserve">(Joe Bonecrusher)
+Try asking Tom about something what you need instead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9e30">
+    <command xml:space="preserve">ask joe about key</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9ea0">
+    <command xml:space="preserve">touch joe</command>
+    <result xml:space="preserve">(Joe Dresser)
+You feel nothing unexpected.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9f10" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9f10">
+    <command xml:space="preserve">talk to bablu</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9f80" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9f80">
+    <command xml:space="preserve">talk to babalu</command>
+    <result xml:space="preserve">Try asking Tom about something what you need instead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9ff0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9ff0">
+    <command xml:space="preserve">ask tom about key</command>
+    <result xml:space="preserve">Tom doesn&apos;t seem to want to talk about it and just looks away from you.
+
+There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa060" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa060">
+    <command xml:space="preserve">talk to jack</command>
+    <result xml:space="preserve">Try asking Tom about something what you need instead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa0d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa0d0">
+    <command xml:space="preserve">break dresser</command>
+    <result xml:space="preserve">Which do you mean, Joe Dresser or Doves Dresser?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa140" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa140">
+    <command xml:space="preserve">Joe dresser</command>
+    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa1b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa1b0">
+    <command xml:space="preserve">doves dresser</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa220" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa220">
+    <command xml:space="preserve">break doves dresser</command>
+    <result xml:space="preserve">Violence isn&apos;t the answer to this one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa290" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa290">
+    <command xml:space="preserve">open joe dresser</command>
+    <result xml:space="preserve">It seems to be locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa300" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa300">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa370" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa370">
+    <command xml:space="preserve">go into doves room</command>
+    <result xml:space="preserve">You get into The Doves&quot; Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa3e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa3e0">
+    <command xml:space="preserve">x doves room</command>
+    <result xml:space="preserve">All the Doves share this room. The two sisters stand by their blue bed. The younger sister is facing her older sister. The Mexican Dove is sleeping on the red bed. Esther stand in the corner by a dresser.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa450" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa450">
+    <command xml:space="preserve">talk to two sisters</command>
+    <result xml:space="preserve">You can&apos;t use multiple objects with that verb.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa4c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa4c0">
+    <command xml:space="preserve">talk to sisters</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa530" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa530">
+    <command xml:space="preserve">talk to young sister</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa5a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa5a0">
+    <command xml:space="preserve">talk to older sister</command>
+    <result xml:space="preserve">Try asking Tom about something what you need instead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa610" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa610">
+    <command xml:space="preserve">ask tom what i need</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa680" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa680">
+    <command xml:space="preserve">take needle</command>
+    <result xml:space="preserve">That seems to belong to Esther.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa6f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa6f0">
+    <command xml:space="preserve">talk to esther</command>
+    <result xml:space="preserve">Try asking Tom about something what you need instead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa760" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa760">
+    <command xml:space="preserve">ask esther for needle</command>
+    <result xml:space="preserve">Esther has better things to do.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa7d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa7d0">
+    <command xml:space="preserve">open dresser</command>
+    <result xml:space="preserve">Which do you mean, Joe Dresser or Doves Dresser?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="216">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa840" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa840">
+    <command xml:space="preserve">x dresser</command>
+    <result xml:space="preserve">Which do you mean, Joe Dresser or Doves Dresser?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="215">YES</temporary>
+  </item>
+  <item nodeId="node-0x68fa8b0">
+    <command xml:space="preserve">go into your room</command>
+    <result xml:space="preserve">You get into Your Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa920" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa920">
+    <command xml:space="preserve">x your room</command>
+    <result xml:space="preserve">You share this room with Babalu the Bad and Tom No-Tribe. The bed is big enough for all three of you to fit, but usually Babalu is awake at night and paces along the barn, so usually it&apos;s just you and Tom No-Tribe keeping warm. Along the barn wall is a bag with your belongings.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fa990" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fa990">
+    <command xml:space="preserve">talk to tom no-tribe</command>
+    <result xml:space="preserve">You must supply a second noun.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x68faa00" />
+    </children>
+  </item>
+  <item nodeId="node-0x68faa00">
+    <command xml:space="preserve">talk to tom-no tribe about needle</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x68faa70" />
+    </children>
+  </item>
+  <item nodeId="node-0x68faa70">
+    <command xml:space="preserve">ask tom about needle</command>
+    <result xml:space="preserve">Tom No-Tribe says that the Dove Sisters would probably have that type of stuff. They&apos;re most likely to need it since they&apos;re girls.
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x68faae0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68faae0">
+    <command xml:space="preserve">talk to tom</command>
+    <result xml:space="preserve">You must supply a second noun.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fab50" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fab50">
+    <command xml:space="preserve">about needle</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fabc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fabc0">
+    <command xml:space="preserve">talk to tom about needle</command>
+    <result xml:space="preserve">I only understood you as far as wanting to talk to Tom No-Tribe.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="146">YES</temporary>
+  </item>
+  <item nodeId="node-0x68f9730">
+    <command xml:space="preserve">go into joe r</command>
+    <result xml:space="preserve">You get into Joe Bonecrusher&apos;s Room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="256">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f97a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f97a0">
+    <command xml:space="preserve">x joe r</command>
+    <result xml:space="preserve">All you&apos;re looking for from Joe&apos;s room is the hammer, it&apos;s probably best not to touch her bed or dresser if you don&apos;t want to get into trouble. You see a bottle of something in Joe&apos;s room.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="256">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9810" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9810">
+    <command xml:space="preserve">inspect bottle</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="256">YES</temporary>
+    <children>
+      <child nodeId="node-0x68f9880" />
+    </children>
+  </item>
+  <item nodeId="node-0x68f9880">
+    <command xml:space="preserve">undo</command>
+    <result xml:space="preserve">Barn
+[Previous turn undone.]
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="255">YES</temporary>
+  </item>
+  <item nodeId="node-0x68fac30">
+    <command xml:space="preserve">go into eliza r</command>
+    <result xml:space="preserve">You can&apos;t get into the closed Eliza R.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="281">YES</temporary>
+    <children>
+      <child nodeId="node-0x68faca0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68faca0">
+    <command xml:space="preserve">open eliza r</command>
+    <result xml:space="preserve">You open Eliza R.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="281">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fad10" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fad10">
+    <command xml:space="preserve">go into eliza r</command>
+    <result xml:space="preserve">You get into Eliza R.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="281">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fad80" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fad80">
+    <command xml:space="preserve">get out</command>
+    <result xml:space="preserve">You get out of Eliza R.
+
+Barn
+You can see Babalu the Bad, Joe Bonecrusher, Jack and Eliza R (empty) here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="280">YES</temporary>
+  </item>
+  <item nodeId="node-0x68fadf0">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">Find the items yourself.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="240">YES</temporary>
+  </item>
+  <item nodeId="node-0xe576030">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0xe5984d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe5984d0">
+    <command xml:space="preserve">ask joe about key</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+Here, I have it.I already gave it to you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+    <children>
+      <child nodeId="node-0x6899c60" />
+    </children>
+  </item>
+  <item nodeId="node-0x6899c60">
+    <command xml:space="preserve">x joe</command>
+    <result xml:space="preserve">(Joe Dresser)
+The dresser&apos;s large and made from some wood you don&apos;t recognize. You don&apos;t have the key to it and Joe probably wouldn&apos;t give it to you. There are probably other ways to get into it though.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="74">YES</temporary>
+  </item>
+  <item nodeId="node-0xe10fa10">
+    <command xml:space="preserve">ask joe about what you need</command>
+    <result xml:space="preserve">(Joe Bonecrusher about that)
+You said that you needed a knife, a hammer, thread, a needle, and clean rags.I already gave it to you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="72">YES</temporary>
+  </item>
+  <item nodeId="node-0xe59c760">
+    <command xml:space="preserve">x joe</command>
+    <result xml:space="preserve">Which do you mean, Joe Bonecrusher&apos;s Room or Joe Bonecrusher?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="75">YES</temporary>
+  </item>
+  <item nodeId="node-0x68fb480">
+    <command xml:space="preserve">gimme gimme gimme</command>
+    <result xml:space="preserve">But why
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, but it&apos;s freezing and probably not a good idea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="240">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fb4f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fb4f0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Key
+  Clean rags
+  Thread
+  Needle
+  Hammer
+  Knife
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="240">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fb560" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fb560">
+    <command xml:space="preserve">x jack</command>
+    <result xml:space="preserve">Jack showed up outside the barn three days ago. To you, he smells of evil and you don&apos;t trust him. Now isn&apos;t the time to worry about that, his fingers need to be amputated and bandaged.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="240">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fb5d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fb5d0">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">Are you sure you want to restart? </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="240">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fb640" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fb640">
+    <command xml:space="preserve">yes</command>
+    <result xml:space="preserve">
+
+
+Jack, the Mexican that showed up a couple days ago needs the fingers on his left had to be cut off due to frostbite. He sits in a chair in the barn. You&apos;ll need a sharp knife, a hammer, a needle, thread, and clean rags to cut it off.
+
+Daughter of Fortune
+An Interactive Fiction by Izzy
+Release 1 / Serial number 141002 / Inform 7 build 6L02 (I6/v6.33 lib 6/12N) SD
+
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, but it&apos;s freezing and probably not a good idea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="240">YES</temporary>
+    <children>
+      <child nodeId="node-0x68fb6b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x68fb6b0">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">Binding cloth: Taken.
+Music Sheets: Taken.
+Jacket: Taken.
+Needle: That seems to belong to Esther.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="239">YES</temporary>
+  </item>
+  <item nodeId="node-0x68779f0">
+    <command xml:space="preserve">gimme gimme gimmme</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x6877a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x6877a40">
+    <command xml:space="preserve">gimme gimme gimme</command>
+    <result xml:space="preserve">But why
+Barn
+Joe and Babalu stand by in the barn. Jack sits in a chair by a table and stove. You can go into your room, Joe Bonecrusher&apos;s Room, the Doves&quot; Room, and the Kitchen. You could also go outside, but it&apos;s freezing and probably not a good idea.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="244">YES</temporary>
+    <children>
+      <child nodeId="node-0x6877a90" />
+    </children>
+  </item>
+  <item nodeId="node-0x6877a90">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  Key
+  Clean rags
+  Thread
+  Needle
+  Hammer
+  Knife
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="243">YES</temporary>
+  </item>
+</Skein>
